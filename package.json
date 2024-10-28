@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.3",
     "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
     "speakeasy": "^2.0.0"
   }
 }
